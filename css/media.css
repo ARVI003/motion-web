@@ -24,6 +24,9 @@
   #hero2 {
     min-height: 41vh;
   }
+  #hero3 .hero3 {
+    margin-top: 114px;
+  }
 }
 @media (max-width: 1200px) {
   .container {
@@ -87,6 +90,9 @@
   }
   #morning .morning--block--titlic3 {
     margin: 51px 0;
+  }
+  #hero3 .hero3 {
+    margin-top: 58px;
   }
 }
 @media (max-width: 1024px) {
@@ -178,6 +184,9 @@
   }
   #morning .morning--together--jerco__rait {
     margin-bottom: 34px;
+  }
+  #hero3 {
+    min-height: 64vh;
   }
 }
 @media (max-width: 992px) {
@@ -284,6 +293,9 @@
   }
   #dirty2 .dirty2--six {
     margin-left: 10px;
+  }
+  #hero3 {
+    min-height: 81vh;
   }
 }
 @media (max-width: 576px) {
@@ -605,6 +617,9 @@
   #essay2 .essay2--chemis {
     font-size: 42px;
   }
+  #header .navbar .menu__box {
+    width: 329px;
+  }
 }
 @media (max-width: 425px) {
   .container {
@@ -719,6 +734,9 @@
   }
   #essay2 .essay2--chemis {
     font-size: 40px;
+  }
+  #hero3 {
+    min-height: 106vh;
   }
 }
 @media (max-width: 380px) {
@@ -900,6 +918,15 @@
   }
   #essay2 .essay2--btn {
     margin-left: 9px;
+  }
+  #header .navbar .menu__btn {
+    right: 78px;
+  }
+  #header .navbar .menu__box {
+    width: 293px;
+  }
+  #header .navbar .nav__btn {
+    margin-left: 22px;
   }
 }
 @media (max-width: 370px) {
@@ -1166,6 +1193,9 @@
   }
   #essay2 .essay2--btn {
     width: 252px;
+  }
+  #header .navbar .menu__btn {
+    right: 57px;
   }
 }
 
